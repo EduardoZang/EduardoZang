@@ -11,11 +11,12 @@
 <img align="center" alt="Zang-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Zang-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
 <img align="center" alt="Zang-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="center" alt="Zang-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">     
 <img align="center" alt="Zang-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Zang-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="center" alt="Zang-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Zang-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="Zang-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+<img align="center" alt="Zang-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">    
 </div>
 
 <div><br>
@@ -26,4 +27,5 @@
   
 <div><br>
   <img align="right" alt="Zang-Icon" height="180em" width="180em" src="https://user-images.githubusercontent.com/116041651/225608526-29c87449-3242-4157-89d7-a4f3e7ee9b98.png">
+  <img align="center" alt="Zang-MyIcon" height="180em" width="180em" src="https://user-images.githubusercontent.com/116041651/227507688-ec175d8d-5a50-4718-af81-24984e31ed7d.svg">
 </div>
